@@ -15,4 +15,4 @@ Debian · Ansible · Docker Compose · Caddy/Nginx · Cloudflare Pages & Workers
 - `selfhost-stack` — Compose stacks (Postiz, Uptime Kuma, reverse proxy) I run for client social scheduling and monitoring
 - `til` — short notes on things I learn, several per week
 
-Cebu, Philippines (UTC+8) · [LinkedIn](https://www.linkedin.com/in/maenobleza) · contact via the sites above
+Cebu, Philippines (UTC+8) · [LinkedIn](https://www.linkedin.com/in/wyndel-mae-nobleza/) · contact via the sites above
