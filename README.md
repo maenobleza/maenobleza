@@ -2,7 +2,7 @@
 
 I'm from Badiangan, Iloilo, in the Philippines. My working background is in HR and administration at a rural bank — payroll, employee records and day-to-day office systems — and I'm now moving into IT support, web and Linux work.
 
-I'm based in the Philippines.
+I'm based in Cebu, Philippines.
 
 ## What I'm working on
 
