@@ -23,5 +23,5 @@ English (fluent) · Hiligaynon (native) · Swedish (basic) · French (basic)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/wyndel-mae-nobleza-25373940a/) · hello@weblionmedia.com
+[LinkedIn](https://www.linkedin.com/in/wyndel-mae-nobleza/) · hello@weblionmedia.com
 
